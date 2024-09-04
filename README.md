@@ -1,1 +1,1 @@
-This is a very basic bot that uses the [AcusticID](https://acoustid.org) api. In my experience this api is unreliable.
+This is a very basic telegram bot that uses the [AcusticID](https://acoustid.org) api fetch a song, that was played in the voice message, that was sent to the bot. In my experience this api is unreliable.
